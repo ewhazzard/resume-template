@@ -23,7 +23,7 @@ resume_contact_address:         "512 Landen Lane Fisher, IL 61843"
 resume_header_contact_info:     "512 Landen Lane Fisher, IL • 217-751-2683 • ewhazzard@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "Hi! My name is Evan Hazzard and I am a Computer Science major at Illinois State University graduating in the spring of 2023. I like machine learning and data science. "
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
