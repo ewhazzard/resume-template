@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: NexSTEM IT Student Retention
+  role: Research Team Member
+  duration: 2019 &mdash; 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Analysing student retention at Illinois State University, specifically in the School of Information Technology. This analysis included mulitple statistical analysis in Python and PowerBI. Each semester we presented our work to the larger NexSTEM organization.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Blumio Blood Pressure Prediction Based on Artierial Pulse Pressure Waveforms
+  role: Primary Researcher
+  duration: 2021 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Researching and devloping a machine learning approach to predicting constistent blood pressure readings based on radar readings obtained from a wearable device. This reserach is currently in progress. I am using data from a medical technology startup, Blumio.
