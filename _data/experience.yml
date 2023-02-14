@@ -4,11 +4,11 @@
   position: Automation Engineer Intern
   duration: May 2022 &mdash; Present
   summary: Worked in the automation team to build RPA software in UiPath that facilitated project management and collaboration within the Advanced Analytics department at OSF Innovation.
-    -	Utilized UiPath to build several automations that integrated with MS Teams, updated SQL databases, altered local files, and ran Python scripts to manipulate data
-    -	Utilized git flow to manage projects and facilitate collaboration with other automation engineers in an Agile environment
-    -	Designed and implemented Django application to track and automate project management which resulted in 30 hours per week time savings for Advanced Analytics project managers.
-    -	Integrated automations with UiPath Orchestrator to control unattended bots and monitor status
-    -	Created documentation to facilitate future use and development of software
+    *	Utilized UiPath to build several automations that integrated with MS Teams, updated SQL databases, altered local files, and ran Python scripts to manipulate data
+    *	Utilized git flow to manage projects and facilitate collaboration with other automation engineers in an Agile environment
+    *	Designed and implemented Django application to track and automate project management which resulted in 30 hours per week time savings for Advanced Analytics project managers.
+    *	Integrated automations with UiPath Orchestrator to control unattended bots and monitor status
+    *	Created documentation to facilitate future use and development of software
 
 
 #  Machine Learning Student Researcher
