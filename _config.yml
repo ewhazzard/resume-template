@@ -1,6 +1,6 @@
 # Site settings
 title: "Evan Hazzard Resume"
-description: "Evan W. Hazzard Junior Computer Science Major"
+description: "Evan W. Hazzard Senior Computer Science Major"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Evan W. Hazzard"
-resume_title:                   "Student and Machine Learning Researcher"
+resume_title:                   "Graduating Computer Science Major"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ewhazzard@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "512 Landen Lane Fisher, IL 61843"
 resume_header_contact_info:     "512 Landen Lane Fisher, IL • 217-751-2683 • ewhazzard@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "Hi! My name is Evan Hazzard and I am a Computer Science major at Illinois State University graduating in the spring of 2023. I like machine learning and data science. "
+resume_header_intro: "Hi! My name is Evan Hazzard and I am a Computer Science major at Illinois State University graduating in the spring of 2023. I have as strong passion for Python, data, and the automotive industry! I am currently searching for post graduation opportunities. "
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/evan-hazzard/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://evanhazzard.com"
+  #resume_website_url:           "http://evanhazzard.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
