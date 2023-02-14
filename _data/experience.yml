@@ -4,28 +4,16 @@
   position: Automation Engineer Intern
   duration: May 2022 &mdash; Present
   summary: Worked in the automation team to build RPA software in UiPath that facilitated project management and collaboration within the Advanced Analytics department at OSF Innovation.
-            -	Utilized UiPath to build several automations that integrated with MS Teams, updated SQL databases, altered local files, and ran Python scripts to manipulate data
-            - Utilized git flow to manage projects and facilitate collaboration with other automation engineers in an Agile environment
-            -	Designed and implemented Django application to track and automate project management which resulted in 30 hours per week time savings for Advanced Analytics project managers.
-            -	Integrated automations with UiPath Orchestrator to control unattended bots and monitor status
-            -	Created documentation to facilitate future use and development of software
 
 #  Machine Learning Student Researcher
 - company: Illinois State University
   position: Machine Learning Student Researcher
   duration: Feb, 2021 &mdash; May 2022
   summary: Research Machine Learning and coding principles to complete health care related Machine Learning projects with Dr. Shaoen Wu of Illinois State University
-            -	Completed online Machine Learning courses and related work
-            -	Worked in a research team to collaborate on predictive analytics Machine Learning projects
-            -	Used Jupyter Notebook to create custom Machine Learning models and apply knowledge from online courses
-            -	Regularly used PyTorch, FastAI, and other Machine Learning tools in Python 
-            -	Completed “Predicting Blood Pressure with Machine Learning and Radar” project using FastAI’s  predictive machine learning library as well as exploratory data analysis skills
-
+           
 # NOC Intern
 - company: Pavlov Media
   position: Network Operation Center Intern
   duration:  Jun, 2020 &mdash; August, 2020
   summary:  I worked in Pavlov Media's Network Operation Center as a network technician intern. I worked on the break fix team to troubleshoot residential network issues via phone call. At this position I developed strong, customer service focused, soft skills  customer service. 
-            - Developed focused customer service troubleshooting skills
-            - Worked with networking equipment including, Mikrotik, Unifi and Ruckus wireless controllers, D’Link switches, and internal monitoring software
-            - Created, managed, and produced reports for an internal manufacturer RMA process. Received and tested faulty equipment to recoup the equipment costs.
+            
